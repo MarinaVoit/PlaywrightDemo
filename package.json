@@ -10,6 +10,7 @@
   "author": "Maryna Voitsekhivska",
   "license": "ISC",
   "dependencies": {
-    "@playwright/test": "1.37.1"
+    "@playwright/test": "1.37.1",
+    "dotenv": "16.3.1"
   }
 }
